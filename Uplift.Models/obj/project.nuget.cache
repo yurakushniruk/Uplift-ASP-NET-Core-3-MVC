@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WNQsFqe4FpJhqTshzqSzkcFm7c4xdzkT3HqwP4C3cmUFyqM+3OrzMJB2MLP5oIlzy1n8qbSTZJ+xxOTvPkEu1Q==",
+  "dgSpecHash": "5v4Qf1B21eyIr5qcFHwD/HhvemDpn40ripur3o/w5/ZiJvECxt+o0X7lZCupeJ58Q4lLFdWLxKlrXH3DuBL6rg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yura\\Source\\Repos\\Uplift-ASP-NET-Core-3-MVC\\Uplift.Models\\Uplift.Models.csproj",
+  "projectFilePath": "C:\\Users\\Yura\\Source\\Repos\\yurakushniruk\\Uplift-ASP-NET-Core-3-MVC\\Uplift.Models\\Uplift.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yura\\.nuget\\packages\\microsoft.aspnet.mvc\\5.2.7\\microsoft.aspnet.mvc.5.2.7.nupkg.sha512",
     "C:\\Users\\Yura\\.nuget\\packages\\microsoft.aspnet.razor\\3.2.7\\microsoft.aspnet.razor.3.2.7.nupkg.sha512",

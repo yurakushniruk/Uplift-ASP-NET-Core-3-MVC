@@ -9396,11 +9396,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yura\\Source\\Repos\\Uplift-ASP-NET-Core-3-MVC\\Uplift.DataAccess\\Uplift.DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\Yura\\Source\\Repos\\yurakushniruk\\Uplift-ASP-NET-Core-3-MVC\\Uplift.DataAccess\\Uplift.DataAccess.csproj",
       "projectName": "Uplift.DataAccess",
-      "projectPath": "C:\\Users\\Yura\\Source\\Repos\\Uplift-ASP-NET-Core-3-MVC\\Uplift.DataAccess\\Uplift.DataAccess.csproj",
+      "projectPath": "C:\\Users\\Yura\\Source\\Repos\\yurakushniruk\\Uplift-ASP-NET-Core-3-MVC\\Uplift.DataAccess\\Uplift.DataAccess.csproj",
       "packagesPath": "C:\\Users\\Yura\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yura\\Source\\Repos\\Uplift-ASP-NET-Core-3-MVC\\Uplift.DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\Yura\\Source\\Repos\\yurakushniruk\\Uplift-ASP-NET-Core-3-MVC\\Uplift.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Yura\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9416,11 +9416,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Yura\\Source\\Repos\\Uplift-ASP-NET-Core-3-MVC\\Uplift.Models\\Uplift.Models.csproj": {
-              "projectPath": "C:\\Users\\Yura\\Source\\Repos\\Uplift-ASP-NET-Core-3-MVC\\Uplift.Models\\Uplift.Models.csproj"
+            "C:\\Users\\Yura\\Source\\Repos\\yurakushniruk\\Uplift-ASP-NET-Core-3-MVC\\Uplift.Models\\Uplift.Models.csproj": {
+              "projectPath": "C:\\Users\\Yura\\Source\\Repos\\yurakushniruk\\Uplift-ASP-NET-Core-3-MVC\\Uplift.Models\\Uplift.Models.csproj"
             },
-            "C:\\Users\\Yura\\Source\\Repos\\Uplift-ASP-NET-Core-3-MVC\\Uplift.Utility\\Uplift.Utility.csproj": {
-              "projectPath": "C:\\Users\\Yura\\Source\\Repos\\Uplift-ASP-NET-Core-3-MVC\\Uplift.Utility\\Uplift.Utility.csproj"
+            "C:\\Users\\Yura\\Source\\Repos\\yurakushniruk\\Uplift-ASP-NET-Core-3-MVC\\Uplift.Utility\\Uplift.Utility.csproj": {
+              "projectPath": "C:\\Users\\Yura\\Source\\Repos\\yurakushniruk\\Uplift-ASP-NET-Core-3-MVC\\Uplift.Utility\\Uplift.Utility.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eOegy3BEuc02XdNK8q65kSFHs/kwdQL4vQ6irAHqWwxknhJnsGl39EP800a9rcozg0cbKDrE5XZ4yzZlQYU1Kw==",
+  "dgSpecHash": "04y4VPVVs8UtRmwk3glRThYQELSJEPvAHlzwGxVDal/t3IX49ALT9RhjRH1kPVXR1KatvXAllqM4JKcx/isqyA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yura\\Source\\Repos\\Uplift-ASP-NET-Core-3-MVC\\Uplift\\Uplift.csproj",
+  "projectFilePath": "C:\\Users\\Yura\\Source\\Repos\\yurakushniruk\\Uplift-ASP-NET-Core-3-MVC\\Uplift\\Uplift.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yura\\.nuget\\packages\\dapper\\2.0.35\\dapper.2.0.35.nupkg.sha512",
     "C:\\Users\\Yura\\.nuget\\packages\\microsoft.aspnet.mvc\\5.2.7\\microsoft.aspnet.mvc.5.2.7.nupkg.sha512",
